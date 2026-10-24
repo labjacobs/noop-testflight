@@ -1,0 +1,7 @@
+# Signing material lives in ../signing, never here.
+*.p8
+*.p12
+*.key
+*.cer
+*.pem
+*.mobileprovision
